@@ -48,6 +48,7 @@
 * :snake:[Matplotlib.pdf](https://github.com/SuperCV/Book/blob/master/Python/Matplotlib.pdf)
 * :snake:[数据科学入门.pdf](https://github.com/SuperCV/Book/blob/master/Python/数据科学入门.pdf)
 * :snake:[Python机器学习基础教程.pdf](https://github.com/SuperCV/Book/blob/master/Python/Python机器学习基础教程.pdf)
+* :snake:[深度学习Deep-Learning.pdf](https://github.com/SuperCV/Book/blob/master/Python/深度学习Deep-Learning.pdf)
 * :snake:[流畅的Python.pdf](https://github.com/SuperCV/Book/blob/master/Python/流畅的Python.pdf)
 * :snake:[Modern-Python-Cookbook.pdf](https://github.com/SuperCV/Book/blob/master/Python/Modern-Python-Cookbook.pdf)
 * :snake:[Python数据科学手册.pdf](https://github.com/SuperCV/Book/blob/master/Python/Python数据科学手册.pdf)
@@ -66,5 +67,4 @@
 * :snake:[模式识别与机器学习PRML.pdf](https://github.com/SuperCV/Book/blob/master/Python/模式识别与机器学习PRML.pdf)
 * :snake:[Pattern-Recognition-And-Machine-Learning.pdf](https://github.com/SuperCV/Book/blob/master/Python/Pattern-Recognition-And-Machine-Learning.pdf)
 * :snake:[统计学习方法-李航.pdf](https://github.com/SuperCV/Book/blob/master/Python/统计学习方法-李航.pdf)
-* :snake:[深度学习Deep Learning.pdf](https://github.com/SuperCV/Book/blob/master/Python/深度学习Deep Learning.pdf)
 
